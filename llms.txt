@@ -37,6 +37,7 @@ Ribyos is an industry-neutral enterprise agent platform in development at Jengar
 The home of Jengara’s AI product portfolio, supported by applied research. Each product has its own audience and roadmap; Labs is not limited to enterprise software. Ribyos is the first featured product. https://jengara.ai/labs/
 
 ## Research and insights
+- The Benchmark Illusion: How Boards Should Really Evaluate AI Models: https://jengara.ai/insights/the-benchmark-illusion/
 
 - Sovereign AI: the national AI buildout and what it means for your compute strategy: https://jengara.ai/insights/sovereign-ai-compute-strategy/
 - The chip war is now your supply chain problem: export controls are redrawing the map of global AI compute: https://jengara.ai/insights/ai-compute-export-controls/
