@@ -1,68 +1,20 @@
-# Jengara
+# Jengara Labs — Proprietary AI Software
 
-Jengara is an AI solutions company based in Amsterdam, Netherlands. Jengara Labs is its AI product development arm, building a portfolio of products for distinct customer needs. Ribyos is its first featured product, an enterprise agent platform in development. Jengara Advisory is a supporting practice offering independent strategy, transformation and diligence expertise.
+Jengara BV is a Netherlands-incorporated AI software company. Jengara Labs is its product development division. The company has discontinued advisory and consulting services.
 
 Contact: hello@jengara.ai
-Location: Amsterdam, Netherlands
-Registered: Jengara B.V., Dutch Chamber of Commerce (KvK) 42186593, Amsterdam
+Website: https://jengara.ai/
+Products: https://jengara.ai/labs/
 
-## Key facts
+## Products
+- RibyOS: agent orchestration, execution, governance and observability. Design partners targeted for January 2027. https://ribyos.ai/
+- Tesseryn: AI-powered cybersecurity and infrastructure risk intelligence integrating vulnerability context, network topology and service dependencies. Design partners targeted for January 2027. https://tesseryn.ai/
+- PromptPresence: generative AI brand visibility and analytics. Targeted launch October 2026. https://promptpresence.ai/
 
-- Independent advisory. Recommendations are never tied to software, cloud or equipment resale.
-- Two practices: Jengara Labs (Ribyos and product development) and Jengara Advisory (independent executive counsel, diligence and transformation leadership).
-- Senior led. Expertise grounded in more than 15 years across global technology platforms and infrastructure.
-- Serves enterprise leaders, boards and investors.
-- Publishes evidence first research on AI economics, infrastructure and diligence at https://jengara.ai/insights/.
+The launch and onboarding dates above are targets, not assertions of general availability.
 
-## Ribyos by Jengara Labs
-
-Ribyos is an industry-neutral enterprise agent platform in development at Jengara Labs. Studio supports building and testing agents; Enterprise provides workspace governance; Marketplace is planned for reusable agents, connectors and workflow packs. Reliability and SRE are optional industry extensions. Open refers to interoperability and model choice, not an open-source licence.
-
-- Product overview: https://jengara.ai/ribyos/
-
-## Advisory services
-
-- AI Strategy and Executive Advisory: https://jengara.ai/advisory/ai-strategy-executive-advisory/
-- AI Transformation: https://jengara.ai/advisory/ai-transformation/
-- AI Management: https://jengara.ai/advisory/ai-management/
-- Agentic AI Advisory: https://jengara.ai/advisory/agentic-ai-advisory/
-- AI Tokenomics, GPU Economics and FinOps: https://jengara.ai/advisory/ai-tokenomics-finops/
-- AI Value and Production Assurance: https://jengara.ai/advisory/ai-value-production-assurance/
-- Cybersecurity Due Diligence: https://jengara.ai/advisory/cybersecurity-due-diligence/
-- Digital Critical Infrastructure: https://jengara.ai/advisory/digital-critical-infrastructure/
-- Private Equity Technology Due Diligence: https://jengara.ai/advisory/private-equity-technology-due-diligence/
-
-## Jengara Labs
-
-The home of Jengara’s AI product portfolio, supported by applied research. Each product has its own audience and roadmap; Labs is not limited to enterprise software. Ribyos is the first featured product. https://jengara.ai/labs/
-
-## Research and insights
-- The Benchmark Illusion: How Boards Should Really Evaluate AI Models: https://jengara.ai/insights/the-benchmark-illusion/
-
-- Sovereign AI: the national AI buildout and what it means for your compute strategy: https://jengara.ai/insights/sovereign-ai-compute-strategy/
-- The chip war is now your supply chain problem: export controls are redrawing the map of global AI compute: https://jengara.ai/insights/ai-compute-export-controls/
-- The agent gap: why enterprise AI agents stall before production: https://jengara.ai/insights/the-agent-gap/
-- The power ceiling: energy is now the binding constraint on AI scale: https://jengara.ai/insights/ai-power-ceiling/
-- From tokens to gross margin: measuring the real economics of enterprise AI: https://jengara.ai/insights/token-cost-gross-margin/
-- Seven AI diligence questions every investment committee should ask: https://jengara.ai/insights/ai-due-diligence-investment-committee/
-- AI infrastructure is now critical infrastructure: https://jengara.ai/insights/critical-infrastructure-ai/
-
-## Working resources
-
-- AI Value and Readiness Workbook: https://jengara.ai/resources/ai-value-readiness-workbook/
-- AI Investment Diligence Checklist: https://jengara.ai/resources/ai-investment-diligence-checklist/
-- AI Unit Economics Worksheet: https://jengara.ai/resources/ai-unit-economics-worksheet/
-
-## Frequently asked questions
-
-- What does Jengara do? Jengara develops AI products through Labs, including the enterprise platform Ribyos, and offers independent expertise through Advisory.
-- Where is Jengara based? Amsterdam, Netherlands.
-- How is Jengara structured? Labs leads product development, with Ribyos as the flagship platform. Advisory supports independent strategy, transformation and diligence engagements.
-- Is Jengara independent? Yes. Recommendations are not tied to software, cloud or equipment resale.
-- How can I contact Jengara? Email hello@jengara.ai or use https://jengara.ai/contact/.
-
-## Practices
-
-- Jengara Advisory: https://jengara.ai/advisory/
-- Jengara Labs: https://jengara.ai/labs/
+## Company
 - About: https://jengara.ai/about/
+- Product portfolio: https://jengara.ai/labs/
+- Insights: https://jengara.ai/insights/
+- Contact: https://jengara.ai/contact/
