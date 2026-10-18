@@ -1,0 +1,49 @@
+name: Deploy to Cloudways
+
+# Auto-publish pipeline for jengara.ai.
+# Every push to main triggers a Cloudways git pull, purges the Varnish
+# cache (so new pages stop serving stale 404s), and verifies the site.
+# Required repository secrets: CW_ACCESS_TOKEN, CW_SERVER_ID, CW_APP_ID.
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudways git pull
+        run: |
+          curl --fail-with-body --request POST \
+            --url https://api.cloudways.com/api/v1/git/pull \
+            --header "Authorization: Bearer ${{ secrets.CW_ACCESS_TOKEN }}" \
+            --header "Content-Type: application/x-www-form-urlencoded" \
+            --data-urlencode "server_id=${{ secrets.CW_SERVER_ID }}" \
+            --data-urlencode "app_id=${{ secrets.CW_APP_ID }}" \
+            --data-urlencode "branch_name=main" \
+            --data-urlencode "deploy_path="
+
+      - name: Wait for the pull to land
+        run: sleep 60
+
+      - name: Purge Varnish cache
+        run: |
+          curl --fail-with-body --request POST \
+            --url https://api.cloudways.com/api/v1/service/varnish \
+            --header "Authorization: Bearer ${{ secrets.CW_ACCESS_TOKEN }}" \
+            --header "Content-Type: application/x-www-form-urlencoded" \
+            --data-urlencode "server_id=${{ secrets.CW_SERVER_ID }}" \
+            --data-urlencode "action=purge"
+
+      - name: Verify the site is live
+        run: |
+          for i in 1 2 3 4 5; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" https://jengara.ai/)
+            echo "attempt $i: HTTP $code"
+            if [ "$code" = "200" ]; then exit 0; fi
+            sleep 15
+          done
+          echo "Site did not return HTTP 200 after deploy"
+          exit 1
