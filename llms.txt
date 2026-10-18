@@ -18,3 +18,6 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Product portfolio: https://jengara.ai/labs/
 - Insights: https://jengara.ai/insights/
 - Contact: https://jengara.ai/contact/
+
+## Research and insights
+- Model churn is the new patch cycle: https://jengara.ai/insights/model-churn-patch-cycle/
