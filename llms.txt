@@ -20,4 +20,5 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Contact: https://jengara.ai/contact/
 
 ## Research and insights
+- The memory wall: AI scale now runs on memory: https://jengara.ai/insights/the-memory-wall/
 - Model churn is the new patch cycle: https://jengara.ai/insights/model-churn-patch-cycle/
