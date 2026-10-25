@@ -20,6 +20,7 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Contact: https://jengara.ai/contact/
 
 ## Research and insights
+- Tokens are cheaper. Compute is not.: https://jengara.ai/insights/tokens-are-cheaper-compute-is-not/
 - Phantom demand is now a grid planning problem: https://jengara.ai/insights/phantom-demand-grid-planning/
 - Waterless cooling is now a siting test for AI data centers: https://jengara.ai/insights/waterless-cooling-siting-test/
 - The memory wall: AI scale now runs on memory: https://jengara.ai/insights/the-memory-wall/
