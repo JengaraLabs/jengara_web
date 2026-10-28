@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+Allow: /llms.txt
 Disallow: /contact-submit.php
+
+# Curated site summary for language-model agents (https://llmstxt.org/)
+LLM-Policy: /llms.txt
 
 Sitemap: https://jengara.ai/sitemap.xml
