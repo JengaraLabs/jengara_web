@@ -20,6 +20,7 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Contact: https://jengara.ai/contact/
 
 ## Research and insights
+- How long does an AI server really live: https://jengara.ai/insights/how-long-does-an-ai-server-really-live/
 - One model is no longer a strategy: https://jengara.ai/insights/one-model-is-no-longer-a-strategy/
 - Oversight an agent can edit is not oversight: https://jengara.ai/insights/oversight-an-agent-can-edit-is-not-oversight/
 - The AI buildout is now a credit story: https://jengara.ai/insights/the-ai-buildout-is-now-a-credit-story/
