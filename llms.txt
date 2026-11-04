@@ -8,8 +8,6 @@ Products: https://jengara.ai/labs/
 
 ## Products
 - RibyOS: agent orchestration, execution, governance and observability. Design partners targeted for January 2027. https://ribyos.ai/
-- Tesseryn: AI-powered cybersecurity and infrastructure risk intelligence integrating vulnerability context, network topology and service dependencies. Design partners targeted for January 2027. https://tesseryn.ai/
-- PromptPresence: generative AI brand visibility and analytics. Targeted launch October 2026. https://promptpresence.ai/
 
 The launch and onboarding dates above are targets, not assertions of general availability.
 
