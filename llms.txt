@@ -1,6 +1,6 @@
 # Jengara Labs — Proprietary AI Software
 
-Jengara BV is a Netherlands-incorporated AI software company. Jengara Labs is its product development division. The company has discontinued advisory and consulting services.
+Jengara BV is a Netherlands-incorporated AI software company. Jengara Labs is its product development division. Jengara Labs builds and licences proprietary AI software products for enterprise deployment.
 
 Contact: hello@jengara.ai
 Website: https://jengara.ai/
