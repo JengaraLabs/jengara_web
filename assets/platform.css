@@ -23,7 +23,7 @@
 .sov-grid h3,.mod-grid h3{font-size:23px;margin:16px 0 10px}
 .sov-grid p{color:#b4c8ce;font-size:15px;margin:0}
 .sov-principles span{color:var(--ink)}
-.sov-badge{font-size:13px;color:var(--muted);margin-top:18px}
+.sov-badge{display:inline-flex;align-items:center;flex-wrap:wrap;gap:12px 18px;font-size:13px;color:var(--muted);margin-top:24px}.sov-badge img{display:block;width:167px;height:auto}.sov-badge:hover span{color:var(--ink)}
 .modules{padding-top:90px;padding-bottom:90px}
 .mod-grid article{background:#e8f1ed;padding:32px;border-top:3px solid var(--ink)}
 .mod-grid article span{color:#3e7661}
