@@ -19,6 +19,7 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Contact: https://jengara.ai/contact/
 
 ## Research and insights
+- Each agent passes. Together they fail.: https://jengara.ai/insights/each-agent-passes-together-they-fail/
 - Bring your own power is the new grid: https://jengara.ai/insights/bring-your-own-power-is-the-new-grid/
 - Reasoning effort is the new model choice: https://jengara.ai/insights/reasoning-effort-is-the-new-model-choice/
 - An agent on a shared account is unaccountable: https://jengara.ai/insights/an-agent-on-a-shared-account-is-unaccountable/
