@@ -13,7 +13,6 @@ The launch and onboarding dates above are targets, not assertions of general ava
 
 ## Company
 - About: https://jengara.ai/about/
-- Team: https://jengara.ai/team/
 - Product portfolio: https://jengara.ai/labs/
 - Insights: https://jengara.ai/insights/
 - Contact: https://jengara.ai/contact/
