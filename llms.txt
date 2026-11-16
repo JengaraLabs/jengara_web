@@ -33,3 +33,11 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Waterless cooling is now a siting test for AI data centers: https://jengara.ai/insights/waterless-cooling-siting-test/
 - The memory wall: AI scale now runs on memory: https://jengara.ai/insights/the-memory-wall/
 - Model churn is the new patch cycle: https://jengara.ai/insights/model-churn-patch-cycle/
+- The Benchmark Illusion: How Boards Should Really Evaluate AI Models: https://jengara.ai/insights/the-benchmark-illusion/
+- Sovereign AI: the national AI buildout and what it means for your compute strategy: https://jengara.ai/insights/sovereign-ai-compute-strategy/
+- The chip war is now your supply chain problem: export controls are redrawing the map of global AI compute: https://jengara.ai/insights/ai-compute-export-controls/
+- The agent gap: why enterprise AI agents stall before production: https://jengara.ai/insights/the-agent-gap/
+- The power ceiling: energy is now the binding constraint on AI scale: https://jengara.ai/insights/ai-power-ceiling/
+- Seven AI diligence questions every investment committee should ask: https://jengara.ai/insights/ai-due-diligence-investment-committee/
+- From tokens to gross margin: measuring the real economics of enterprise AI: https://jengara.ai/insights/token-cost-gross-margin/
+- AI infrastructure is now critical infrastructure: https://jengara.ai/insights/critical-infrastructure-ai/
