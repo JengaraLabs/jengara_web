@@ -18,6 +18,7 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Contact: https://jengara.ai/contact/
 
 ## Research and insights
+- Prefill and decode no longer share a GPU: https://jengara.ai/insights/prefill-and-decode-no-longer-share-a-gpu/
 - Approval fatigue turns oversight into theatre: https://jengara.ai/insights/approval-fatigue-turns-oversight-into-theatre/
 - Busy GPUs are not productive GPUs: https://jengara.ai/insights/busy-gpus-are-not-productive-gpus/
 - Access is the new frontier model tier: https://jengara.ai/insights/access-is-the-new-frontier-model-tier/
