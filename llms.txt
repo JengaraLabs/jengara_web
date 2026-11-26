@@ -18,6 +18,7 @@ The launch and onboarding dates above are targets, not assertions of general ava
 - Contact: https://jengara.ai/contact/
 
 ## Research and insights
+- An agent without a budget will spend one: https://jengara.ai/insights/an-agent-without-a-budget-will-spend-one/
 - The frontier model is a teacher now: https://jengara.ai/insights/the-frontier-model-is-a-teacher-now/
 - Prefill and decode no longer share a GPU: https://jengara.ai/insights/prefill-and-decode-no-longer-share-a-gpu/
 - Approval fatigue turns oversight into theatre: https://jengara.ai/insights/approval-fatigue-turns-oversight-into-theatre/
